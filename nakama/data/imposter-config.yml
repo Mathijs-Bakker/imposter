@@ -1,0 +1,12 @@
+name: imposter 
+data_dir: "./data/"
+
+logger:
+    stdout: false
+    level: "warn"
+    file: "/nakama/data/logfile.log"
+
+console:
+    port: 7351
+    username: "user"
+    password: "pw"
